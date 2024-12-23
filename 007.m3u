@@ -71,22 +71,6 @@ http://245573.tv.netsite.cc/proxy/199561397/199561397.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/1168525477/1168525477.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png" group-title="CCTV-Live",咪咕体育
 http://245573.tv.netsite.cc/proxy/1168525477/1168525477.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="CCTV-Live",凤凰卫视
-https://tvbox.nat.netsite.cc:8043/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="CCTV-Live",凤凰卫视
-http://245573.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="CCTV-Live",凤凰卫视
-https://tvbox.nat.netsite.cc:8043/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="CCTV-Live",凤凰卫视
-http://245573.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="CCTV-Live",凤凰中文
-https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="CCTV-Live",凤凰中文
-http://245573.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="CCTV-Live",凤凰中文
-https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="CCTV-Live",凤凰中文
-http://245573.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="CCTV-Live",北京卫视
 https://tvbox.nat.netsite.cc:8043/proxy/1773564112/1773564112.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="CCTV-Live",北京卫视
@@ -407,34 +391,6 @@ http://245573.tv.netsite.cc/proxy/700721138/700721138.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/818789140/818789140.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙古语文化" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙古语文化.png" group-title="地方台",内蒙古蒙古语文化
 http://245573.tv.netsite.cc/proxy/818789140/818789140.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="地方台",贵州卫视
-https://tvbox.nat.netsite.cc:8043/proxy/1494390345/1494390345.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="地方台",贵州卫视
-http://245573.tv.netsite.cc/proxy/1494390345/1494390345.m3u8
-#EXTINF:-1 tvg-name="贵州公共频道" tvg-logo="https://live.fanmingming.cn/tv/贵州公共频道.png" group-title="地方台",贵州公共频道
-https://tvbox.nat.netsite.cc:8043/proxy/730375068/730375068.m3u8
-#EXTINF:-1 tvg-name="贵州公共频道" tvg-logo="https://live.fanmingming.cn/tv/贵州公共频道.png" group-title="地方台",贵州公共频道
-http://245573.tv.netsite.cc/proxy/730375068/730375068.m3u8
-#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://live.fanmingming.cn/tv/贵州影视文艺.png" group-title="地方台",贵州影视文艺
-https://tvbox.nat.netsite.cc:8043/proxy/277498502/277498502.m3u8
-#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://live.fanmingming.cn/tv/贵州影视文艺.png" group-title="地方台",贵州影视文艺
-http://245573.tv.netsite.cc/proxy/277498502/277498502.m3u8
-#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://live.fanmingming.cn/tv/贵州大众生活.png" group-title="地方台",贵州大众生活
-https://tvbox.nat.netsite.cc:8043/proxy/1102719883/1102719883.m3u8
-#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://live.fanmingming.cn/tv/贵州大众生活.png" group-title="地方台",贵州大众生活
-http://245573.tv.netsite.cc/proxy/1102719883/1102719883.m3u8
-#EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://live.fanmingming.cn/tv/贵州生态乡村.png" group-title="地方台",贵州生态乡村
-https://tvbox.nat.netsite.cc:8043/proxy/2087588014/2087588014.m3u8
-#EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://live.fanmingming.cn/tv/贵州生态乡村.png" group-title="地方台",贵州生态乡村
-http://245573.tv.netsite.cc/proxy/2087588014/2087588014.m3u8
-#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://live.fanmingming.cn/tv/贵州科教健康.png" group-title="地方台",贵州科教健康
-https://tvbox.nat.netsite.cc:8043/proxy/1162947109/1162947109.m3u8
-#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://live.fanmingming.cn/tv/贵州科教健康.png" group-title="地方台",贵州科教健康
-http://245573.tv.netsite.cc/proxy/1162947109/1162947109.m3u8
-#EXTINF:-1 tvg-name="贵州移动电视频道" tvg-logo="https://live.fanmingming.cn/tv/贵州移动电视频道.png" group-title="地方台",贵州移动电视频道
-https://tvbox.nat.netsite.cc:8043/proxy/1401142653/1401142653.m3u8
-#EXTINF:-1 tvg-name="贵州移动电视频道" tvg-logo="https://live.fanmingming.cn/tv/贵州移动电视频道.png" group-title="地方台",贵州移动电视频道
-http://245573.tv.netsite.cc/proxy/1401142653/1401142653.m3u8
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.cn/tv/重庆新闻.png" group-title="地方台",重庆新闻
 https://tvbox.nat.netsite.cc:8043/proxy/1555453135/1555453135.m3u8
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.cn/tv/重庆新闻.png" group-title="地方台",重庆新闻
@@ -471,10 +427,6 @@ http://245573.tv.netsite.cc/proxy/1183146985/1183146985.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/742107634/742107634.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.fanmingming.cn/tv/陕西体育休闲.png" group-title="地方台",陕西体育休闲
 http://245573.tv.netsite.cc/proxy/742107634/742107634.m3u8
-#EXTINF:-1 tvg-name="福建综合频道" tvg-logo="https://live.fanmingming.cn/tv/福建综合频道.png" group-title="地方台",福建综合频道
-https://tvbox.nat.netsite.cc:8043/proxy/269896449/269896449.m3u8
-#EXTINF:-1 tvg-name="福建综合频道" tvg-logo="https://live.fanmingming.cn/tv/福建综合频道.png" group-title="地方台",福建综合频道
-http://245573.tv.netsite.cc/proxy/269896449/269896449.m3u8
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://live.fanmingming.cn/tv/福建东南卫视.png" group-title="地方台",福建东南卫视
 https://tvbox.nat.netsite.cc:8043/proxy/1989099435/1989099435.m3u8
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://live.fanmingming.cn/tv/福建东南卫视.png" group-title="地方台",福建东南卫视
@@ -487,10 +439,6 @@ http://245573.tv.netsite.cc/proxy/639164858/639164858.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/199601741/199601741.m3u8
 #EXTINF:-1 tvg-name="福建新闻频道" tvg-logo="https://live.fanmingming.cn/tv/福建新闻频道.png" group-title="地方台",福建新闻频道
 http://245573.tv.netsite.cc/proxy/199601741/199601741.m3u8
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.cn/tv/福建电视剧.png" group-title="地方台",福建电视剧
-https://tvbox.nat.netsite.cc:8043/proxy/1180178372/1180178372.m3u8
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.cn/tv/福建电视剧.png" group-title="地方台",福建电视剧
-http://245573.tv.netsite.cc/proxy/1180178372/1180178372.m3u8
 #EXTINF:-1 tvg-name="福建旅游频道" tvg-logo="https://live.fanmingming.cn/tv/福建旅游频道.png" group-title="地方台",福建旅游频道
 https://tvbox.nat.netsite.cc:8043/proxy/1739179131/1739179131.m3u8
 #EXTINF:-1 tvg-name="福建旅游频道" tvg-logo="https://live.fanmingming.cn/tv/福建旅游频道.png" group-title="地方台",福建旅游频道
@@ -499,54 +447,10 @@ http://245573.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/561753807/561753807.m3u8
 #EXTINF:-1 tvg-name="福建经视频道" tvg-logo="https://live.fanmingming.cn/tv/福建经视频道.png" group-title="地方台",福建经视频道
 http://245573.tv.netsite.cc/proxy/561753807/561753807.m3u8
-#EXTINF:-1 tvg-name="福建体育频道" tvg-logo="https://live.fanmingming.cn/tv/福建体育频道.png" group-title="地方台",福建体育频道
-https://tvbox.nat.netsite.cc:8043/proxy/1771344389/1771344389.m3u8
-#EXTINF:-1 tvg-name="福建体育频道" tvg-logo="https://live.fanmingming.cn/tv/福建体育频道.png" group-title="地方台",福建体育频道
-http://245573.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
-#EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.cn/tv/福建少儿频道.png" group-title="地方台",福建少儿频道
-https://tvbox.nat.netsite.cc:8043/proxy/253585251/253585251.m3u8
-#EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.cn/tv/福建少儿频道.png" group-title="地方台",福建少儿频道
-http://245573.tv.netsite.cc/proxy/253585251/253585251.m3u8
 #EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/福建海峡卫视.png" group-title="地方台",福建海峡卫视
 https://tvbox.nat.netsite.cc:8043/proxy/1400186150/1400186150.m3u8
 #EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/福建海峡卫视.png" group-title="地方台",福建海峡卫视
 http://245573.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
-#EXTINF:-1 tvg-name="吉林卫视高清" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视高清.png" group-title="地方台",吉林卫视高清
-https://tvbox.nat.netsite.cc:8043/proxy/1218816360/1218816360.m3u8
-#EXTINF:-1 tvg-name="吉林卫视高清" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视高清.png" group-title="地方台",吉林卫视高清
-http://245573.tv.netsite.cc/proxy/1218816360/1218816360.m3u8
-#EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://live.fanmingming.cn/tv/吉林综艺文化.png" group-title="地方台",吉林综艺文化
-https://tvbox.nat.netsite.cc:8043/proxy/1548850221/1548850221.m3u8
-#EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://live.fanmingming.cn/tv/吉林综艺文化.png" group-title="地方台",吉林综艺文化
-http://245573.tv.netsite.cc/proxy/1548850221/1548850221.m3u8
-#EXTINF:-1 tvg-name="吉林公共频道" tvg-logo="https://live.fanmingming.cn/tv/吉林公共频道.png" group-title="地方台",吉林公共频道
-https://tvbox.nat.netsite.cc:8043/proxy/1189725287/1189725287.m3u8
-#EXTINF:-1 tvg-name="吉林公共频道" tvg-logo="https://live.fanmingming.cn/tv/吉林公共频道.png" group-title="地方台",吉林公共频道
-http://245573.tv.netsite.cc/proxy/1189725287/1189725287.m3u8
-#EXTINF:-1 tvg-name="吉林乡村频道" tvg-logo="https://live.fanmingming.cn/tv/吉林乡村频道.png" group-title="地方台",吉林乡村频道
-https://tvbox.nat.netsite.cc:8043/proxy/1171899698/1171899698.m3u8
-#EXTINF:-1 tvg-name="吉林乡村频道" tvg-logo="https://live.fanmingming.cn/tv/吉林乡村频道.png" group-title="地方台",吉林乡村频道
-http://245573.tv.netsite.cc/proxy/1171899698/1171899698.m3u8
-#EXTINF:-1 tvg-name="吉林生活频道" tvg-logo="https://live.fanmingming.cn/tv/吉林生活频道.png" group-title="地方台",吉林生活频道
-https://tvbox.nat.netsite.cc:8043/proxy/1468821790/1468821790.m3u8
-#EXTINF:-1 tvg-name="吉林生活频道" tvg-logo="https://live.fanmingming.cn/tv/吉林生活频道.png" group-title="地方台",吉林生活频道
-http://245573.tv.netsite.cc/proxy/1468821790/1468821790.m3u8
-#EXTINF:-1 tvg-name="吉林影视频道" tvg-logo="https://live.fanmingming.cn/tv/吉林影视频道.png" group-title="地方台",吉林影视频道
-https://tvbox.nat.netsite.cc:8043/proxy/1310503767/1310503767.m3u8
-#EXTINF:-1 tvg-name="吉林影视频道" tvg-logo="https://live.fanmingming.cn/tv/吉林影视频道.png" group-title="地方台",吉林影视频道
-http://245573.tv.netsite.cc/proxy/1310503767/1310503767.m3u8
-#EXTINF:-1 tvg-name="吉林戏曲频道" tvg-logo="https://live.fanmingming.cn/tv/吉林戏曲频道.png" group-title="地方台",吉林戏曲频道
-https://tvbox.nat.netsite.cc:8043/proxy/1321895461/1321895461.m3u8
-#EXTINF:-1 tvg-name="吉林戏曲频道" tvg-logo="https://live.fanmingming.cn/tv/吉林戏曲频道.png" group-title="地方台",吉林戏曲频道
-http://245573.tv.netsite.cc/proxy/1321895461/1321895461.m3u8
-#EXTINF:-1 tvg-name="吉林都市频道" tvg-logo="https://live.fanmingming.cn/tv/吉林都市频道.png" group-title="地方台",吉林都市频道
-https://tvbox.nat.netsite.cc:8043/proxy/1677605767/1677605767.m3u8
-#EXTINF:-1 tvg-name="吉林都市频道" tvg-logo="https://live.fanmingming.cn/tv/吉林都市频道.png" group-title="地方台",吉林都市频道
-http://245573.tv.netsite.cc/proxy/1677605767/1677605767.m3u8
-#EXTINF:-1 tvg-name="吉林新闻综合" tvg-logo="https://live.fanmingming.cn/tv/吉林新闻综合.png" group-title="地方台",吉林新闻综合
-https://tvbox.nat.netsite.cc:8043/proxy/1360924247/1360924247.m3u8
-#EXTINF:-1 tvg-name="吉林新闻综合" tvg-logo="https://live.fanmingming.cn/tv/吉林新闻综合.png" group-title="地方台",吉林新闻综合
-http://245573.tv.netsite.cc/proxy/1360924247/1360924247.m3u8
 #EXTINF:-1 tvg-name="吉林延边卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林延边卫视.png" group-title="地方台",吉林延边卫视
 https://tvbox.nat.netsite.cc:8043/proxy/454807708/454807708.m3u8
 #EXTINF:-1 tvg-name="吉林延边卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林延边卫视.png" group-title="地方台",吉林延边卫视
@@ -619,14 +523,6 @@ http://245573.tv.netsite.cc/proxy/1238488351/1238488351.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/1492902938/1492902938.m3u8
 #EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.cn/tv/河南都市频道.png" group-title="地方台",河南都市频道
 http://245573.tv.netsite.cc/proxy/1492902938/1492902938.m3u8
-#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.cn/tv/河南民生频道.png" group-title="地方台",河南民生频道
-https://tvbox.nat.netsite.cc:8043/proxy/1346087362/1346087362.m3u8
-#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.cn/tv/河南民生频道.png" group-title="地方台",河南民生频道
-http://245573.tv.netsite.cc/proxy/1346087362/1346087362.m3u8
-#EXTINF:-1 tvg-name="河南法制频道" tvg-logo="https://live.fanmingming.cn/tv/河南法制频道.png" group-title="地方台",河南法制频道
-https://tvbox.nat.netsite.cc:8043/proxy/1472420660/1472420660.m3u8
-#EXTINF:-1 tvg-name="河南法制频道" tvg-logo="https://live.fanmingming.cn/tv/河南法制频道.png" group-title="地方台",河南法制频道
-http://245573.tv.netsite.cc/proxy/1472420660/1472420660.m3u8
 #EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.cn/tv/河南电视剧频道.png" group-title="地方台",河南电视剧频道
 https://tvbox.nat.netsite.cc:8043/proxy/493614280/493614280.m3u8
 #EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.cn/tv/河南电视剧频道.png" group-title="地方台",河南电视剧频道
@@ -646,11 +542,6 @@ http://245573.tv.netsite.cc/proxy/1779518772/1779518772.m3u8
 #EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.cn/tv/河南乡村频道.png" group-title="地方台",河南乡村频道
 https://tvbox.nat.netsite.cc:8043/proxy/1890775902/1890775902.m3u8
 #EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.cn/tv/河南乡村频道.png" group-title="地方台",河南乡村频道
-http://245573.tv.netsite.cc/proxy/1890775902/1890775902.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.cn/tv/河南武术世界.png" group-title="地方台",河南武术世界
-https://tvbox.nat.netsite.cc:8043/proxy/503866921/503866921.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.cn/tv/河南武术世界.png" group-title="地方台",河南武术世界
-http://245573.tv.netsite.cc/proxy/503866921/503866921.m3u8
 #EXTINF:-1 tvg-name="河南晴彩中原频道" tvg-logo="https://live.fanmingming.cn/tv/河南晴彩中原频道.png" group-title="地方台",河南晴彩中原频道
 https://tvbox.nat.netsite.cc:8043/proxy/437233355/437233355.m3u8
 #EXTINF:-1 tvg-name="河南晴彩中原频道" tvg-logo="https://live.fanmingming.cn/tv/河南晴彩中原频道.png" group-title="地方台",河南晴彩中原频道
@@ -663,10 +554,6 @@ http://245573.tv.netsite.cc/proxy/1836590379/1836590379.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/606632094/606632094.m3u8
 #EXTINF:-1 tvg-name="河南移动戏曲频道" tvg-logo="https://live.fanmingming.cn/tv/河南移动戏曲频道.png" group-title="地方台",河南移动戏曲频道
 http://245573.tv.netsite.cc/proxy/606632094/606632094.m3u8
-#EXTINF:-1 tvg-name="河南文物宝库频道" tvg-logo="https://live.fanmingming.cn/tv/河南文物宝库频道.png" group-title="地方台",河南文物宝库频道
-https://tvbox.nat.netsite.cc:8043/proxy/908742171/908742171.m3u8
-#EXTINF:-1 tvg-name="河南文物宝库频道" tvg-logo="https://live.fanmingming.cn/tv/河南文物宝库频道.png" group-title="地方台",河南文物宝库频道
-http://245573.tv.netsite.cc/proxy/908742171/908742171.m3u8
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="地方台",快乐购
 https://tvbox.nat.netsite.cc:8043/proxy/970312636/970312636.m3u8
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="地方台",快乐购
@@ -819,14 +706,6 @@ http://245573.tv.netsite.cc/proxy/1977735434/1977735434.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/145384285/145384285.m3u8
 #EXTINF:-1 tvg-name="高邮一套新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/高邮一套新闻综合频道.png" group-title="地方台",高邮一套新闻综合频道
 http://245573.tv.netsite.cc/proxy/145384285/145384285.m3u8
-#EXTINF:-1 tvg-name="镇江新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/镇江新闻综合频道.png" group-title="地方台",镇江新闻综合频道
-https://tvbox.nat.netsite.cc:8043/proxy/1052067340/1052067340.m3u8
-#EXTINF:-1 tvg-name="镇江新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/镇江新闻综合频道.png" group-title="地方台",镇江新闻综合频道
-http://245573.tv.netsite.cc/proxy/1052067340/1052067340.m3u8
-#EXTINF:-1 tvg-name="镇江二套社会民生频道" tvg-logo="https://live.fanmingming.cn/tv/镇江二套社会民生频道.png" group-title="地方台",镇江二套社会民生频道
-https://tvbox.nat.netsite.cc:8043/proxy/1259661680/1259661680.m3u8
-#EXTINF:-1 tvg-name="镇江二套社会民生频道" tvg-logo="https://live.fanmingming.cn/tv/镇江二套社会民生频道.png" group-title="地方台",镇江二套社会民生频道
-http://245573.tv.netsite.cc/proxy/1259661680/1259661680.m3u8
 #EXTINF:-1 tvg-name="四川观察" tvg-logo="https://live.fanmingming.cn/tv/四川观察.png" group-title="地方台",四川观察
 https://tvbox.nat.netsite.cc:8043/proxy/2061240764/2061240764.m3u8
 #EXTINF:-1 tvg-name="四川观察" tvg-logo="https://live.fanmingming.cn/tv/四川观察.png" group-title="地方台",四川观察
@@ -839,7 +718,3 @@ http://245573.tv.netsite.cc/proxy/847703940/847703940.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/1485397580/1485397580.m3u8
 #EXTINF:-1 tvg-name="大立電視台" tvg-logo="https://live.fanmingming.cn/tv/大立電視台.png" group-title="海外(已隐藏)",大立電視台
 http://245573.tv.netsite.cc/proxy/1485397580/1485397580.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="测试",CCTV-1
-https://tvbox.nat.netsite.cc:8043/proxy/1464748337/1464748337.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="测试",CCTV-1
-http://245573.tv.netsite.cc/proxy/1464748337/1464748337.m3u8
